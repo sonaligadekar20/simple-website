@@ -1,0 +1,42 @@
+{
+    "Testing":[
+        {
+            "tittle":"Testing Overview",
+            "subtittle":"Build winning experiences across web,mobile app and server-side",
+            "featureT1":"Web Testing ",
+            "featuredec":"Test and create web experiences",
+            "featureB2":"Mobile App Testing ",
+            "featuredec2":"Defight mobile app user with optimized experiences",
+            "featureS3":"Server-side Testing ",
+            "featuredec3":"Test complex feature across",
+            "featuretittle":"Feature",
+            "feature1":"split testing",
+            "feature2":"Multivarient Testing ",
+            "feature3":"Integration",
+            "feature4":"Hypothesis",
+            "feature5":"Bayesian Stats Engine",
+            "imgurl":""
+
+        }
+    ],
+    "Behavior Analytics":[
+        {
+            "tittle":"Testing Overview",
+            "subtittle":"Build winning experiences across web,mobile app and server-side",
+            "featureT1":"Web Testing ",
+            "featuredec":"Test and create web experiences",
+            "featureB2":"Mobile App Testing ",
+            "featuredec2":"Defight mobile app user with optimized experiences",
+            "featureS3":"Server-side Testing ",
+            "featuredec3":"Test complex feature across",
+            "featuretittle":"Feature",
+            "feature1":"split testing",
+            "feature2":"Multivarient Testing ",
+            "feature3":"Integration",
+            "feature4":"Hypothesis",
+            "feature5":"Bayesian Stats Engine",
+            "imgurl":""
+
+        }
+    ]
+}

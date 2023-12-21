@@ -1,0 +1,37 @@
+.navbarbg{
+    background-color: #26134d;
+}
+.hoverlink:hover{
+    background-color: aliceblue;
+    opacity: 0.1;
+    color: rgb(254, 253, 253);
+}
+
+.logo{
+    margin-left: 100px;
+}
+.sidebar-section{
+    width: 30%;
+    height: 100vh;
+    background-color:#f8f8f9;
+}
+
+.sidebar-tittle:hover{
+    background-color: white;
+    color: rgb(218, 13, 47);
+   padding: 20px;
+   box-shadow: 0px 2px 2px rgb(176, 174, 174);
+
+}
+.color{
+    color: rgb(164, 2, 64);
+
+}
+
+.subtittles:hover{
+    color: rgb(218, 13, 47);
+}
+
+.behaviour-section{
+    margin-top: 120px;
+}
